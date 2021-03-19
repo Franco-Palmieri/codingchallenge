@@ -1,0 +1,46 @@
+body{
+  background-image: url("codingchallenge.jpg");
+  background-size: cover;
+}
+.corpo{
+  background-color:rgba(0, 0, 0, 0.5);
+  width: 1000px;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 10px;
+  padding: 70px;
+  font-size: 10px;
+}
+header{
+  text-align: center;
+  color:#00ff00;
+}
+nav{
+  text-align: center;
+  background-color: #00ff00;
+  padding: 10px;
+  position: relative;
+  border-radius: 2px;
+}
+.sezioni{
+  color: #FFFAF0;
+  font-size: 12px;
+}
+.progress-bar{
+  background-color: #FF8C00;
+  padding: 10px;
+  width: 300px;
+  border-radius: 2px;
+}
+.progress-bardue{
+  background-color: #7CFC00;
+  padding: 10px;
+  width: 500px;
+  border-radius: 2px;
+}
+.progress-bartre{
+  background-color: #B22222;
+  padding: 10px;
+  width: 150px;
+  border-radius: 2px;
+}
